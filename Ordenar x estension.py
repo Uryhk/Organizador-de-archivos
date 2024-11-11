@@ -50,5 +50,5 @@ def organizar_archivos_por_extension(directorio):
     print("Organización completada.")
 
 # Llamamos a la función y pasamos el directorio donde están los archivos
-directorio = 'D:\'  # Cambia esto por la ruta de tu directorio
+directorio = '/ruta o directorio a cambiar'  # Cambia esto por la ruta de tu directorio
 organizar_archivos_por_extension(directorio)
