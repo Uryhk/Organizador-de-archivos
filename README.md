@@ -5,4 +5,4 @@ En la parte inferior del codigo estara la variable directorio hay es donde deber
 
 Hoy 16-11-24 saque la primera version ejecutable para windows para los que quieran descargar el programa y usar les dejo el link de descarga en la parte inferior del Readme . Ademas eh sacado la version dos de programa ya con interfaz grafica espero que les guste 
 
-LINK DE DESCARGA: https://terabox.com/s/1ZCH_u6ybxClFCJzY55SPlg
+
